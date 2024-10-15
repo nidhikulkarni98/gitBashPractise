@@ -6,6 +6,9 @@ public class test2 {
 		// TODO Auto-generated method stub
 		//pushin1
 
+		//pulling2
+		
+
 	}
 
 }
