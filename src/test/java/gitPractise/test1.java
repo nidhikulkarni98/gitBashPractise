@@ -1,9 +1,13 @@
 package gitPractise;
 
+import org.testng.annotations.Test;
+
 public class test1 {
 
-	public static void main(String[] args) {
+	@Test
+	public void test1() {
 		// TODO Auto-generated method stub
+		System.out.println("hi");
 
 	}
 
